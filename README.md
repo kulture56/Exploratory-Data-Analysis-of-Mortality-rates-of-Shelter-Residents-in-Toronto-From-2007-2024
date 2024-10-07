@@ -1,2 +1,5 @@
-# Deaths-of-Shelter-Residents-in-Toronto-From-2007-2024
-Deaths of Shelter Residents in Toronto From 2007-2024
+# Analysis of Deaths-of-Shelter-Residents-in-Toronto-From-2007-2024
+
+This dataset, spanning from 2007 to 2024, tracks monthly mortality rates across three gender categories: Male, Female, and Transgender/Non-binary/Two-Spirit. The data contains a total of 212 monthly entries, with information on the total number of decedents each month and their respective gender breakdowns. Notably, a significant proportion of entries for the Transgender/Non-binary/Two-Spirit category are missing, with about 73.58% of the data absent in this column. To address this, missing values were imputed with zeros, which might suggest no decedents in those months for that category.
+
+The descriptive statistics indicate that, on average, there were about 3.83 total deaths per month, with male decedents averaging higher (mean = 2.99) compared to females (mean = 0.79). Transgender/Non-binary/Two-Spirit deaths were the least reported, with an average of 0.21 deaths per month. The highest number of deaths recorded in a single month was 19, with a maximum of 16 male decedents and 5 female decedents in individual months. This dataset provides a valuable foundation for analyzing mortality trends over time and across gender, although the missing data may affect insights regarding gender diversity in death rates.
