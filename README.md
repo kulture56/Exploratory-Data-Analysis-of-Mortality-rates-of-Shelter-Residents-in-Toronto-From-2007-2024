@@ -1,4 +1,6 @@
 # Analysis of Mortality of Shelter Residents in Toronto From-2007-2024
+![TorontoCityGIF](https://github.com/user-attachments/assets/cb5eb980-8ad0-4096-a567-d9c132111818)
+
 
 This dataset, spanning from 2007 to 2024, tracks monthly mortality rates across three gender categories: Male, Female, and Transgender/Non-binary/Two-Spirit. The data contains a total of 212 monthly entries, with information on the total number of decedents each month and their respective gender breakdowns. Notably, a significant proportion of entries for the Transgender/Non-binary/Two-Spirit category are missing, with about 73.58% of the data absent in this column. To address this, missing values were imputed with zeros, which might suggest no decedents in those months for that category.
 
