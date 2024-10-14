@@ -1,4 +1,4 @@
-# Analysis of Mortality of Shelter Residents in Toronto From-2007-2024
+# Exploratory Data Analysis of Mortality of Shelter Residents in Toronto From-2007-2024
 ![TorontoCityGIF](https://github.com/user-attachments/assets/cb5eb980-8ad0-4096-a567-d9c132111818)
 
 
