@@ -2,6 +2,27 @@
 ![TorontoCityGIF](https://github.com/user-attachments/assets/cb5eb980-8ad0-4096-a567-d9c132111818)
 
 
-This dataset, spanning from 2007 to 2024, tracks monthly mortality rates across three gender categories: Male, Female, and Transgender/Non-binary/Two-Spirit. The data contains a total of 212 monthly entries, with information on the total number of decedents each month and their respective gender breakdowns. Notably, a significant proportion of entries for the Transgender/Non-binary/Two-Spirit category are missing, with about 73.58% of the data absent in this column. To address this, missing values were imputed with zeros, which might suggest no decedents in those months for that category.
+**Objective:** Analyzed trends in mortality rates among shelter residents in Toronto over a 17-year period to uncover insights and inform policy decisions.
 
-The descriptive statistics indicate that, on average, there were about 3.83 total deaths per month, with male decedents averaging higher (mean = 2.99) compared to females (mean = 0.79). Transgender/Non-binary/Two-Spirit deaths were the least reported, with an average of 0.21 deaths per month. The highest number of deaths recorded in a single month was 19, with a maximum of 16 male decedents and 5 female decedents in individual months. This dataset provides a valuable foundation for analyzing mortality trends over time and across gender, although the missing data may affect insights regarding gender diversity in death rates.
+**Data Cleaning & Preparation:**
+
+Conducted comprehensive data cleaning, handling missing values, and standardizing date formats.
+Created derived variables and aggregated data across gender categories (Male, Female, Transgender/Non-binary/Two-Spirit).
+
+**Analysis & Visualization:**
+
+Performed descriptive statistical analysis to identify correlations between variables such as age, gender, and shelter conditions.
+Developed visualizations using Python libraries (e.g., Matplotlib, Seaborn) to depict monthly and yearly mortality trends.
+Results & Insights:
+
+Revealed significant patterns in mortality rates, including higher rates in certain months and gender-specific trends.
+Produced actionable insights aimed at improving shelter conditions and addressing public health needs within Toronto’s shelter system.
+Technologies Used: Python, Pandas, Matplotlib, Seaborn
+
+**Impact:** This analysis provided valuable insights into mortality trends, potentially guiding policymakers in improving shelter conditions and focusing on at-risk demographics within the shelter system.
+
+
+
+
+
+
